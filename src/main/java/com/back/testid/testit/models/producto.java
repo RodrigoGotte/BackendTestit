@@ -1,4 +1,4 @@
-package com.back.testit.model;
+package com.back.testid.testit.models;
 
 
 import lombok.Data;
